@@ -1,0 +1,10 @@
+1 numbers = [2, 5, 13, 7, 6, 4]
+2 size= 6
+3 sum= 0
+4 average= 0
+5 index=0
+6   while index<size: 
+7       sum=sum+numbers[index]
+8       index=index+1
+9  average=sum/size
+10 print (average)
